@@ -7,7 +7,7 @@ Unity editor tool for keeping scene hierarchies readable and healthy.
 Unity Package Manager → `Add package from git URL...`:
 
 ```
-https://github.com/voronkovmm/hierolyzer.git
+https://github.com/voronkovmm/hierolyzer.git#v0.1.0
 ```
 
 ## Features
