@@ -1,0 +1,7 @@
+{
+  "name": "com.voron.hierolyzer",
+  "version": "0.1.0",
+  "displayName": "Hierolyzer",
+  "description": "Scene hierarchy tools: headers, health checks.",
+  "unity": "2021.3"
+}
